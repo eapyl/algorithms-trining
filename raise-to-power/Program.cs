@@ -22,7 +22,7 @@ namespace raise_to_power
                 {
                     result *= previousNumberInPower2;
                 }
-                previousNumberInPower2 = previousNumberInPower2 * previousNumberInPower2;
+                previousNumberInPower2 *= previousNumberInPower2;
                 if (currentPowerOf2 + 1 > power)
                     break;
             }
