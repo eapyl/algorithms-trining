@@ -1,0 +1,6 @@
+[package]
+name = "topological_sorting"
+version = "0.1.0"
+authors = ["Yauhen Pyl <yauhen.pyl@redknee.com>"]
+
+[dependencies]
